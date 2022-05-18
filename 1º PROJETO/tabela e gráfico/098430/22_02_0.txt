@@ -1,0 +1,50 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 9 e acaba em 20 com lucro de 2561
+Foi atribuída a task que começa em 24 e acaba em 32 com lucro de 894
+Foi atribuída a task que começa em 35 e acaba em 42 com lucro de 1122
+Foi atribuída a task que começa em 43 e acaba em 62 com lucro de 3759
+Foi atribuída a task que começa em 68 e acaba em 83 com lucro de 2608
+Foi atribuída a task que começa em 94 e acaba em 104 com lucro de 2468
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 5 e acaba em 26 com lucro de 2842
+Foi atribuída a task que começa em 36 e acaba em 56 com lucro de 5375
+Foi atribuída a task que começa em 69 e acaba em 83 com lucro de 2672
+Foi atribuída a task que começa em 95 e acaba em 109 com lucro de 2277
+
+O profit total é 26578
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98430
+T = 22
+P = 2
+Profits not ignored
+Solution time = 8.509e-01
+Tasks   Starting date	    Ending date    Profit
+    0               9              20       2561
+    1               5              26       2842
+    2              13              26       2350
+    3              24              31        822
+    4              24              32        894
+    5              35              42       1122
+    6              30              44       1309
+    7              29              48       2490
+    8              50              55        559
+    9              36              56       5375
+   10              42              58       4552
+   11              43              62       3759
+   12              44              64       2149
+   13              46              64       3530
+   14              68              83       2608
+   15              69              83       2672
+   16              79              84        735
+   17              93              96        662
+   18              86              97       1946
+   19              91             103        810
+   20              94             104       2468
+   21              95             109       2277

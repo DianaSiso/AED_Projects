@@ -1,0 +1,55 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 5 e acaba em 14 com lucro de 663
+Foi atribuída a task que começa em 20 e acaba em 39 com lucro de 4033
+Foi atribuída a task que começa em 40 e acaba em 55 com lucro de 2625
+Foi atribuída a task que começa em 57 e acaba em 110 com lucro de 6668
+Foi atribuída a task que começa em 120 e acaba em 125 com lucro de 711
+Foi atribuída a task que começa em 134 e acaba em 142 com lucro de 1000
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 0 e acaba em 17 com lucro de 3072
+Foi atribuída a task que começa em 23 e acaba em 127 com lucro de 11757
+
+O profit total é 30529
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 2020
+T = 29
+P = 2
+Profits not ignored
+Solution time = 2.606e+02
+Tasks   Starting date	    Ending date    Profit
+    0               5              14        663
+    1               0              17       3072
+    2              18              24        527
+    3              19              28       1108
+    4              12              36       3159
+    5              27              37       2343
+    6              20              39       4033
+    7              14              40       3158
+    8              37              52       2564
+    9              51              52        478
+   10              34              54       4185
+   11              40              55       2625
+   12              53              58        782
+   13              47              61       1005
+   14              58              67       1228
+   15              71              79       1196
+   16              69              82       2123
+   17              69              84       2350
+   18              31              94      11734
+   19              74              95       4731
+   20              83              95       2030
+   21              88              98       2186
+   22              87              99       1882
+   23              91             101       1361
+   24              91             104       1954
+   25              57             110       6668
+   26             120             125        711
+   27              23             127      11757
+   28             134             142       1000

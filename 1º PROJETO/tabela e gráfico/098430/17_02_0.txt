@@ -1,0 +1,37 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 7 e acaba em 76 com lucro de 14876
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 7 e acaba em 80 com lucro de 19738
+
+O profit total é 34614
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98430
+T = 17
+P = 2
+Profits not ignored
+Solution time = 4.753e-02
+Tasks   Starting date	    Ending date    Profit
+    0              10              21       1911
+    1              13              27       3132
+    2              15              30       2136
+    3              23              35       3459
+    4              34              40        969
+    5              29              44       1954
+    6              44              49       1448
+    7              43              51       1734
+    8              58              65       1988
+    9              48              67       1610
+   10              14              72      13088
+   11              60              72       3051
+   12               7              76      14876
+   13              14              79      10196
+   14               7              80      19738
+   15              72              80       1676
+   16              73              84       1018

@@ -1,0 +1,65 @@
+----- Solução a ignorar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 12 e acaba em 17
+Foi atribuída a task que começa em 20 e acaba em 34
+Foi atribuída a task que começa em 35 e acaba em 45
+Foi atribuída a task que começa em 50 e acaba em 63
+Foi atribuída a task que começa em 65 e acaba em 72
+Foi atribuída a task que começa em 78 e acaba em 85
+Foi atribuída a task que começa em 87 e acaba em 104
+Foi atribuída a task que começa em 112 e acaba em 124
+Foi atribuída a task que começa em 130 e acaba em 134
+Foi atribuída a task que começa em 139 e acaba em 140
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 17 e acaba em 26
+Foi atribuída a task que começa em 34 e acaba em 45
+Foi atribuída a task que começa em 58 e acaba em 66
+Foi atribuída a task que começa em 70 e acaba em 83
+Foi atribuída a task que começa em 94 e acaba em 100
+Foi atribuída a task que começa em 114 e acaba em 129
+Foi atribuída a task que começa em 131 e acaba em 145
+
+O número total de tarefas feitas é 17
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98430
+T = 30
+P = 2
+Profits ignored
+Solution time = 3.547e+02
+Tasks   Starting date	    Ending date    Profit
+    0               9              24          1
+    1              12              17          1
+    2              15              32          1
+    3              17              23          1
+    4              17              25          1
+    5              17              26          1
+    6              20              34          1
+    7              27              41          1
+    8              29              37          1
+    9              32              40          1
+   10              32              54          1
+   11              34              45          1
+   12              34             113          1
+   13              35              45          1
+   14              41              60          1
+   15              50              63          1
+   16              58              66          1
+   17              65              72          1
+   18              70              83          1
+   19              78              85          1
+   20              84              96          1
+   21              87             104          1
+   22              94             100          1
+   23             104             114          1
+   24             110             135          1
+   25             112             124          1
+   26             114             129          1
+   27             130             134          1
+   28             131             145          1
+   29             139             140          1

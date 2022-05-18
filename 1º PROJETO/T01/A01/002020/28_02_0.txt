@@ -1,0 +1,49 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 3 e acaba em 109 com lucro de 22867
+Foi atribuída a task que começa em 110 e acaba em 124 com lucro de 2929
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 29 e acaba em 125 com lucro de 19735
+
+O profit total é 45531
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 2020
+T = 28
+P = 2
+Profits not ignored
+Solution time = 1.278e+02
+Tasks   Starting date	    Ending date    Profit
+    0               2              33       3362
+    1              28              43       2507
+    2              36              46       1508
+    3              23              49       4933
+    4              50              51        505
+    5              28              52       4781
+    6              62              66        768
+    7              64              66        469
+    8              26              72      11163
+    9              64              78       2382
+   10              83              87        570
+   11              83              90        756
+   12              81              92       1222
+   13              90             102       2285
+   14              79             105       3554
+   15               3             109      22867
+   16              88             110       4860
+   17             103             112       1378
+   18              91             114       3334
+   19             109             115        472
+   20             100             117       2517
+   21             107             120       1487
+   22             104             124       3009
+   23             110             124       2929
+   24              29             125      19735
+   25             102             127       5247
+   26             105             127       5166
+   27              39             137      15550

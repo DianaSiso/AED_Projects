@@ -1,0 +1,53 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 2 e acaba em 14 com lucro de 1818
+Foi atribuída a task que começa em 15 e acaba em 26 com lucro de 2365
+Foi atribuída a task que começa em 30 e acaba em 41 com lucro de 1223
+Foi atribuída a task que começa em 47 e acaba em 67 com lucro de 5626
+Foi atribuída a task que começa em 75 e acaba em 88 com lucro de 1364
+Foi atribuída a task que começa em 89 e acaba em 114 com lucro de 4820
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 1 e acaba em 15 com lucro de 1808
+Foi atribuída a task que começa em 17 e acaba em 30 com lucro de 2302
+Foi atribuída a task que começa em 35 e acaba em 53 com lucro de 4258
+Foi atribuída a task que começa em 77 e acaba em 114 com lucro de 7863
+
+O profit total é 33447
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 2020
+T = 25
+P = 2
+Profits not ignored
+Solution time = 1.647e+01
+Tasks   Starting date	    Ending date    Profit
+    0               2              14       1818
+    1               1              15       1808
+    2              15              26       2365
+    3              17              30       2302
+    4              25              30        532
+    5              25              31       2031
+    6              26              33       1256
+    7              30              41       1223
+    8              23              42       1546
+    9              29              48       4440
+   10              22              49       5322
+   11              34              51       1662
+   12              34              52       2500
+   13              35              53       4258
+   14              48              62       2837
+   15              47              67       5626
+   16              73              82       1310
+   17              75              88       1364
+   18              43             102       8782
+   19               6             107      12628
+   20             106             113       1819
+   21              77             114       7863
+   22              89             114       4820
+   23              10             122      11580
+   24             101             122       3590

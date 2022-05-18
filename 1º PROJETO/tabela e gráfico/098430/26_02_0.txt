@@ -1,0 +1,54 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 8 e acaba em 15 com lucro de 1287
+Foi atribuída a task que começa em 20 e acaba em 27 com lucro de 1462
+Foi atribuída a task que começa em 31 e acaba em 33 com lucro de 326
+Foi atribuída a task que começa em 34 e acaba em 41 com lucro de 1207
+Foi atribuída a task que começa em 43 e acaba em 58 com lucro de 3367
+Foi atribuída a task que começa em 59 e acaba em 73 com lucro de 4389
+Foi atribuída a task que começa em 95 e acaba em 109 com lucro de 1650
+Foi atribuída a task que começa em 113 e acaba em 115 com lucro de 777
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 7 e acaba em 103 com lucro de 24163
+Foi atribuída a task que começa em 105 e acaba em 123 com lucro de 2156
+
+O profit total é 40784
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98430
+T = 26
+P = 2
+Profits not ignored
+Solution time = 1.770e+01
+Tasks   Starting date	    Ending date    Profit
+    0               4              11       1096
+    1               8              15       1287
+    2              10              15       1115
+    3              10              23        913
+    4               1              26       1783
+    5              20              27       1462
+    6              31              33        326
+    7              34              41       1207
+    8              35              44       1697
+    9              34              45       1746
+   10              44              56       3247
+   11              43              58       3367
+   12              59              73       4389
+   13              52              74       1564
+   14              67              79       1643
+   15              23              95       6686
+   16              72              97       3155
+   17              92              97       1530
+   18              73              98       4736
+   19              88              98       1208
+   20              95             101        823
+   21               7             103      24163
+   22              95             109       1650
+   23              97             113       1825
+   24             113             115        777
+   25             105             123       2156

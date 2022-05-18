@@ -1,0 +1,55 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 0 e acaba em 9 com lucro de 754
+Foi atribuída a task que começa em 12 e acaba em 23 com lucro de 1591
+Foi atribuída a task que começa em 24 e acaba em 30 com lucro de 1059
+Foi atribuída a task que começa em 32 e acaba em 33 com lucro de 408
+Foi atribuída a task que começa em 37 e acaba em 49 com lucro de 2609
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 8 e acaba em 12 com lucro de 459
+Foi atribuída a task que começa em 13 e acaba em 30 com lucro de 4769
+Foi atribuída a task que começa em 33 e acaba em 48 com lucro de 2882
+
+PROGRAMADOR 3
+Foi atribuída a task que começa em 2 e acaba em 13 com lucro de 2730
+Foi atribuída a task que começa em 20 e acaba em 33 com lucro de 1941
+Foi atribuída a task que começa em 45 e acaba em 49 com lucro de 527
+
+PROGRAMADOR 4
+Foi atribuída a task que começa em 5 e acaba em 13 com lucro de 1399
+Foi atribuída a task que começa em 24 e acaba em 49 com lucro de 1988
+
+O profit total é 23116
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98607
+T = 20
+P = 4
+Profits not ignored
+Solution time = 4.363e-01
+Tasks   Starting date	    Ending date    Profit
+    0               0               9        754
+    1               8               9        267
+    2               8              12        459
+    3               2              13       2730
+    4               5              13       1399
+    5               5              18        968
+    6               8              19       1293
+    7              12              23       1591
+    8               9              24       2321
+    9              16              25        965
+   10               9              27       2452
+   11              13              30       4769
+   12              24              30       1059
+   13              20              33       1941
+   14              32              33        408
+   15              10              48       3201
+   16              33              48       2882
+   17              24              49       1988
+   18              37              49       2609
+   19              45              49        527

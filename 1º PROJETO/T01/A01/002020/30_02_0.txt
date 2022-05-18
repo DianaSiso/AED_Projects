@@ -1,0 +1,57 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 2 e acaba em 12 com lucro de 1772
+Foi atribuída a task que começa em 19 e acaba em 36 com lucro de 5293
+Foi atribuída a task que começa em 40 e acaba em 45 com lucro de 1029
+Foi atribuída a task que começa em 55 e acaba em 70 com lucro de 2846
+Foi atribuída a task que começa em 89 e acaba em 101 com lucro de 3098
+Foi atribuída a task que começa em 108 e acaba em 125 com lucro de 1992
+Foi atribuída a task que começa em 127 e acaba em 136 com lucro de 2100
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 6 e acaba em 14 com lucro de 2032
+Foi atribuída a task que começa em 19 e acaba em 137 com lucro de 17715
+
+O profit total é 37877
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 2020
+T = 30
+P = 2
+Profits not ignored
+Solution time = 4.873e+02
+Tasks   Starting date	    Ending date    Profit
+    0               2              12       1772
+    1               6              14       2032
+    2              10              20       1695
+    3              15              26       2412
+    4              14              31       3597
+    5              14              31       2827
+    6              16              32       2238
+    7              19              36       5293
+    8              25              37       2709
+    9              30              37       1406
+   10              36              38        377
+   11               6              40       7527
+   12              19              40       3020
+   13              32              40       1161
+   14              40              45       1029
+   15              45              63       2287
+   16              50              65       1585
+   17              22              70       3919
+   18              55              70       2846
+   19              61              74       1498
+   20              61              77       2125
+   21              67              98       4200
+   22              86              99       2509
+   23              89             101       3098
+   24              95             117       3120
+   25             108             125       1992
+   26             121             134       2020
+   27             132             134        427
+   28             127             136       2100
+   29              19             137      17715

@@ -1,0 +1,51 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 2 e acaba em 13 com lucro de 1548
+Foi atribuída a task que começa em 14 e acaba em 26 com lucro de 3400
+Foi atribuída a task que começa em 28 e acaba em 42 com lucro de 4228
+Foi atribuída a task que começa em 43 e acaba em 49 com lucro de 795
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 1 e acaba em 17 com lucro de 4741
+Foi atribuída a task que começa em 26 e acaba em 41 com lucro de 3944
+
+PROGRAMADOR 3
+Foi atribuída a task que começa em 8 e acaba em 34 com lucro de 7669
+Foi atribuída a task que começa em 38 e acaba em 48 com lucro de 1354
+
+PROGRAMADOR 4
+Foi atribuída a task que começa em 3 e acaba em 49 com lucro de 8218
+
+O profit total é 35897
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 2020
+T = 20
+P = 4
+Profits not ignored
+Solution time = 7.808e-01
+Tasks   Starting date	    Ending date    Profit
+    0               2              13       1548
+    1              10              14        875
+    2               1              17       2886
+    3               1              17       4741
+    4               9              20       1483
+    5               1              21       2220
+    6              22              25        251
+    7              14              26       3400
+    8               5              29       6188
+    9              15              30       3447
+   10               8              34       7669
+   11              22              38       3392
+   12              20              39       2016
+   13              26              41       3944
+   14              24              42       2397
+   15              28              42       4228
+   16              20              48       2407
+   17              38              48       1354
+   18               3              49       8218
+   19              43              49        795

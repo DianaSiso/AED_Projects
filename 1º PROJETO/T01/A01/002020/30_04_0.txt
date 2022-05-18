@@ -1,0 +1,69 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 1 e acaba em 8 com lucro de 1149
+Foi atribuída a task que começa em 12 e acaba em 21 com lucro de 1970
+Foi atribuída a task que começa em 27 e acaba em 33 com lucro de 1299
+Foi atribuída a task que começa em 37 e acaba em 49 com lucro de 2705
+Foi atribuída a task que começa em 53 e acaba em 57 com lucro de 938
+Foi atribuída a task que começa em 60 e acaba em 74 com lucro de 2367
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 2 e acaba em 8 com lucro de 715
+Foi atribuída a task que começa em 12 e acaba em 24 com lucro de 1725
+Foi atribuída a task que começa em 28 e acaba em 41 com lucro de 2075
+Foi atribuída a task que começa em 42 e acaba em 54 com lucro de 1450
+Foi atribuída a task que começa em 56 e acaba em 69 com lucro de 3086
+
+PROGRAMADOR 3
+Foi atribuída a task que começa em 1 e acaba em 16 com lucro de 2898
+Foi atribuída a task que começa em 19 e acaba em 39 com lucro de 3306
+Foi atribuída a task que começa em 46 e acaba em 55 com lucro de 1009
+Foi atribuída a task que começa em 56 e acaba em 72 com lucro de 3743
+
+PROGRAMADOR 4
+Foi atribuída a task que começa em 2 e acaba em 21 com lucro de 4342
+Foi atribuída a task que começa em 33 e acaba em 73 com lucro de 8188
+
+O profit total é 42965
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 2020
+T = 30
+P = 4
+Profits not ignored
+Solution time = 4.446e+02
+Tasks   Starting date	    Ending date    Profit
+    0               1               8       1149
+    1               2               8        715
+    2               1              16       2898
+    3               8              17       1644
+    4               6              19        846
+    5               2              21       4342
+    6              10              21       1650
+    7              12              21       1970
+    8              12              24       1725
+    9              27              33       1299
+   10              33              36        880
+   11              19              39       3306
+   12              30              39       1718
+   13              28              41       2075
+   14              35              42        975
+   15              37              49       2705
+   16              33              52       2695
+   17              42              54       1450
+   18              46              55       1009
+   19              53              57        938
+   20              54              66       1351
+   21              27              68       6739
+   22              56              69       3086
+   23              50              70       2290
+   24              56              72       3743
+   25              33              73       8188
+   26              68              73       1505
+   27               2              74       7496
+   28              56              74       1628
+   29              60              74       2367

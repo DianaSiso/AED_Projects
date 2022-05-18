@@ -1,0 +1,71 @@
+--------------------SOLUÇÃO IGNORANDO OS LUCROS--------------------
+
+PROGRAMADOR: 1
+Tarefa que começa em 2 e acaba em 7
+Tarefa que começa em 8 e acaba em 13
+Tarefa que começa em 15 e acaba em 22
+Tarefa que começa em 25 e acaba em 41
+Tarefa que começa em 43 e acaba em 49
+Tarefa que começa em 53 e acaba em 54
+Tarefa que começa em 57 e acaba em 61
+Tarefa que começa em 68 e acaba em 78
+
+PROGRAMADOR: 2
+Tarefa que começa em 6 e acaba em 17
+Tarefa que começa em 24 e acaba em 39
+Tarefa que começa em 44 e acaba em 48
+Tarefa que começa em 54 e acaba em 72
+
+PROGRAMADOR: 3
+Tarefa que começa em 7 e acaba em 18
+Tarefa que começa em 24 e acaba em 35
+Tarefa que começa em 36 e acaba em 50
+Tarefa que começa em 56 e acaba em 68
+
+PROGRAMADOR: 4
+Tarefa que começa em 15 e acaba em 20
+Tarefa que começa em 22 e acaba em 32
+Tarefa que começa em 37 e acaba em 49
+Tarefa que começa em 54 e acaba em 68
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 2020
+T = 32
+P = 4
+Profits ignored
+Solution time = 1.162e-04
+Tasks   Starting date	    Ending date    Profit
+    0               2               7          1
+    1               8              13          1
+    2               6              17          1
+    3               7              18          1
+    4              15              20          1
+    5              15              22          1
+    6              19              26          1
+    7              23              31          1
+    8              22              32          1
+    9              24              35          1
+   10              24              39          1
+   11              25              41          1
+   12              19              44          1
+   13              26              46          1
+   14              44              48          1
+   15              37              49          1
+   16              43              49          1
+   17              31              50          1
+   18              36              50          1
+   19              38              50          1
+   20               8              51          1
+   21              53              54          1
+   22              33              56          1
+   23              51              61          1
+   24              53              61          1
+   25              57              61          1
+   26              43              63          1
+   27              54              68          1
+   28              56              68          1
+   29              54              72          1
+   30              68              78          1
+   31               1              79          1

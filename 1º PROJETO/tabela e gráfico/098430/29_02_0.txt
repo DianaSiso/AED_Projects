@@ -1,0 +1,56 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 13 e acaba em 26 com lucro de 2958
+Foi atribuída a task que começa em 30 e acaba em 37 com lucro de 1074
+Foi atribuída a task que começa em 44 e acaba em 52 com lucro de 803
+Foi atribuída a task que começa em 55 e acaba em 68 com lucro de 2714
+Foi atribuída a task que começa em 85 e acaba em 105 com lucro de 4990
+Foi atribuída a task que começa em 115 e acaba em 128 com lucro de 2581
+Foi atribuída a task que começa em 132 e acaba em 144 com lucro de 3572
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 6 e acaba em 123 com lucro de 14093
+Foi atribuída a task que começa em 128 e acaba em 139 com lucro de 2241
+
+O profit total é 35026
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98430
+T = 29
+P = 2
+Profits not ignored
+Solution time = 1.644e+02
+Tasks   Starting date	    Ending date    Profit
+    0              13              23       1133
+    1              12              24       1296
+    2              13              26       2958
+    3              30              37       1074
+    4              44              52        803
+    5              50              54        563
+    6              59              66       1969
+    7              55              68       2714
+    8              58              84       2044
+    9              84              85        535
+   10              72              88       1299
+   11              18              89       7396
+   12              77              92       2419
+   13              86              97       2779
+   14              86              99       2417
+   15              85             105       4990
+   16              98             105       1190
+   17             102             106        491
+   18              90             107       3205
+   19              62             115       4910
+   20              93             116       1557
+   21              97             116       3266
+   22             113             116        508
+   23               6             123      14093
+   24             115             128       2581
+   25             105             139       3994
+   26             128             139       2241
+   27             134             141       1665
+   28             132             144       3572

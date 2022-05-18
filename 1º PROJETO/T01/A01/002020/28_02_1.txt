@@ -1,0 +1,54 @@
+----- Solução a ignorar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 2 e acaba em 33
+Foi atribuída a task que começa em 62 e acaba em 66
+Foi atribuída a task que começa em 83 e acaba em 87
+Foi atribuída a task que começa em 90 e acaba em 102
+Foi atribuída a task que começa em 103 e acaba em 112
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 28 e acaba em 43
+Foi atribuída a task que começa em 64 e acaba em 78
+Foi atribuída a task que começa em 107 e acaba em 120
+
+O número total de tarefas feitas é 8
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 2020
+T = 28
+P = 2
+Profits ignored
+Solution time = 7.426e+01
+Tasks   Starting date	    Ending date    Profit
+    0             100             117          1
+    1              88             110          1
+    2             102             127          1
+    3               2              33          1
+    4              62              66          1
+    5             110             124          1
+    6              29             125          1
+    7              83              87          1
+    8              81              92          1
+    9              28              52          1
+   10              50              51          1
+   11              83              90          1
+   12              90             102          1
+   13              26              72          1
+   14              79             105          1
+   15             104             124          1
+   16             105             127          1
+   17              64              66          1
+   18               3             109          1
+   19             109             115          1
+   20              91             114          1
+   21             103             112          1
+   22              39             137          1
+   23              28              43          1
+   24              64              78          1
+   25             107             120          1
+   26              23              49          1
+   27              36              46          1

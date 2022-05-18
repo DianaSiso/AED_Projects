@@ -1,0 +1,61 @@
+--------------------SOLUÇÃO CONTABILIZANDO OS LUCROS--------------------
+
+PROGRAMADOR 1
+Tarefa que começa em 14 e acaba em 72 com profit 11742 de um total de 12773
+Tarefa que começa em 8 e acaba em 10 com profit 314 de um total de 12773
+Tarefa que começa em 0 e acaba em 4 com profit 717 de um total de 12773
+
+PROGRAMADOR 2
+Tarefa que começa em 65 e acaba em 73 com profit 2376 de um total de 10321
+Tarefa que começa em 49 e acaba em 63 com profit 3278 de um total de 10321
+Tarefa que começa em 30 e acaba em 43 com profit 2124 de um total de 10321
+Tarefa que começa em 10 e acaba em 27 com profit 2543 de um total de 10321
+
+PROGRAMADOR 3
+Tarefa que começa em 55 e acaba em 73 com profit 3036 de um total de 5505
+Tarefa que começa em 35 e acaba em 54 com profit 2469 de um total de 5505
+
+PROGRAMADOR 4
+Tarefa que começa em 54 e acaba em 63 com profit 1584 de um total de 4915
+Tarefa que começa em 43 e acaba em 52 com profit 2010 de um total de 4915
+Tarefa que começa em 33 e acaba em 42 com profit 1321 de um total de 4915
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 3030
+T = 30
+P = 4
+Profits not ignored
+Solution time = 3.436e-06
+Tasks   Starting date	    Ending date    Profit
+    0              65              73       2376
+    1              60              73       1343
+    2              55              73       3036
+    3              14              72      11742
+    4              63              71        996
+    5              64              68        660
+    6              60              66       1184
+    7              62              65        857
+    8              45              65       2003
+    9              54              63       1584
+   10              49              63       3278
+   11              59              62        528
+   12              52              62       1448
+   13              47              60       1543
+   14              35              60       3306
+   15              35              54       2469
+   16              48              53       1182
+   17              44              53       1305
+   18              43              52       2010
+   19              30              43       2124
+   20              33              42       1321
+   21              28              41       1100
+   22              36              37        276
+   23              15              27       1480
+   24              10              27       2543
+   25              11              22       1893
+   26              16              21        729
+   27               9              19       1184
+   28               8              10        314
+   29               0               4        717

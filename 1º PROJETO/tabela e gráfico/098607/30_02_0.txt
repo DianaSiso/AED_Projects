@@ -1,0 +1,55 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 28 e acaba em 41 com lucro de 1718
+Foi atribuída a task que começa em 43 e acaba em 53 com lucro de 1894
+Foi atribuída a task que começa em 63 e acaba em 78 com lucro de 3261
+Foi atribuída a task que começa em 87 e acaba em 109 com lucro de 3585
+Foi atribuída a task que começa em 123 e acaba em 143 com lucro de 5079
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 23 e acaba em 141 com lucro de 21973
+Foi atribuída a task que começa em 143 e acaba em 149 com lucro de 1661
+
+O profit total é 39171
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98607
+T = 30
+P = 2
+Profits not ignored
+Solution time = 3.834e+02
+Tasks   Starting date	    Ending date    Profit
+    0              28              41       1718
+    1              38              51       1873
+    2              43              53        935
+    3              43              53       1894
+    4              44              58       1731
+    5              52              63        956
+    6              65              69       1001
+    7              51              70       1431
+    8              63              75       2064
+    9              63              78       3261
+   10              71              78        895
+   11              67              79       1398
+   12              70              83       1530
+   13              78              97       1895
+   14              98             102        527
+   15              98             104        409
+   16             100             106        975
+   17              93             107       3366
+   18              95             107       3337
+   19              87             109       3585
+   20              30             111       6623
+   21             120             126        698
+   22             125             130       1384
+   23             125             131        814
+   24             129             135        779
+   25              23             141      21973
+   26             137             141        653
+   27             123             143       5079
+   28             134             143        819
+   29             143             149       1661

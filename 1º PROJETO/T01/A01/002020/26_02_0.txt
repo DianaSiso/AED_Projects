@@ -1,0 +1,54 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 9 e acaba em 26 com lucro de 4190
+Foi atribuída a task que começa em 29 e acaba em 48 com lucro de 2939
+Foi atribuída a task que começa em 53 e acaba em 67 com lucro de 2732
+Foi atribuída a task que começa em 69 e acaba em 75 com lucro de 1124
+Foi atribuída a task que começa em 86 e acaba em 93 com lucro de 1848
+Foi atribuída a task que começa em 98 e acaba em 112 com lucro de 3234
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 1 e acaba em 27 com lucro de 6051
+Foi atribuída a task que começa em 40 e acaba em 61 com lucro de 3582
+Foi atribuída a task que começa em 62 e acaba em 84 com lucro de 5720
+Foi atribuída a task que começa em 87 e acaba em 112 com lucro de 4801
+
+O profit total é 36221
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 2020
+T = 26
+P = 2
+Profits not ignored
+Solution time = 3.028e+01
+Tasks   Starting date	    Ending date    Profit
+    0               3              12        932
+    1               5              18       1779
+    2              10              18       2067
+    3              11              19       1215
+    4              12              24       2850
+    5              14              25       2432
+    6               9              26       4190
+    7               1              27       6051
+    8              22              28       1679
+    9              29              48       2939
+   10              40              61       3582
+   11              53              65        925
+   12              45              66       3932
+   13              53              67       2732
+   14              63              73       2759
+   15              69              75       1124
+   16              54              80       2649
+   17              62              84       5720
+   18              69              88       1333
+   19              83              92        999
+   20              86              93       1848
+   21              88              94        587
+   22              89             104        837
+   23               6             105      14506
+   24              87             112       4801
+   25              98             112       3234

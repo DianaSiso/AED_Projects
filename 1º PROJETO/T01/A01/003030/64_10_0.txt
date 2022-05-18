@@ -1,0 +1,116 @@
+--------------------SOLUÇÃO CONTABILIZANDO OS LUCROS--------------------
+
+PROGRAMADOR 1
+Tarefa que começa em 60 e acaba em 62 com profit 638 de um total de 12754
+Tarefa que começa em 6 e acaba em 59 com profit 12116 de um total de 12754
+
+PROGRAMADOR 2
+Tarefa que começa em 5 e acaba em 58 com profit 11232 de um total de 11232
+
+PROGRAMADOR 3
+Tarefa que começa em 56 e acaba em 63 com profit 752 de um total de 10497
+Tarefa que começa em 2 e acaba em 55 com profit 9745 de um total de 10497
+
+PROGRAMADOR 4
+Tarefa que começa em 37 e acaba em 57 com profit 3567 de um total de 10297
+Tarefa que começa em 14 e acaba em 32 com profit 4345 de um total de 10297
+Tarefa que começa em 4 e acaba em 12 com profit 2385 de um total de 10297
+
+PROGRAMADOR 5
+Tarefa que começa em 47 e acaba em 57 com profit 2131 de um total de 10163
+Tarefa que começa em 32 e acaba em 45 com profit 1918 de um total de 10163
+Tarefa que começa em 20 e acaba em 31 com profit 3499 de um total de 10163
+Tarefa que começa em 8 e acaba em 17 com profit 2615 de um total de 10163
+
+PROGRAMADOR 6
+Tarefa que começa em 50 e acaba em 60 com profit 1928 de um total de 8819
+Tarefa que começa em 6 e acaba em 49 com profit 6891 de um total de 8819
+
+PROGRAMADOR 7
+Tarefa que começa em 23 e acaba em 43 com profit 3989 de um total de 7555
+Tarefa que começa em 5 e acaba em 22 com profit 3566 de um total de 7555
+
+PROGRAMADOR 8
+Tarefa que começa em 3 e acaba em 60 com profit 7206 de um total de 7206
+
+PROGRAMADOR 9
+Tarefa que começa em 27 e acaba em 61 com profit 5887 de um total de 6131
+Tarefa que começa em 23 e acaba em 25 com profit 244 de um total de 6131
+
+PROGRAMADOR 10
+Tarefa que começa em 25 e acaba em 49 com profit 4573 de um total de 5557
+Tarefa que começa em 12 e acaba em 23 com profit 984 de um total de 5557
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 3030
+T = 64
+P = 10
+Profits not ignored
+Solution time = 2.198e-06
+Tasks   Starting date	    Ending date    Profit
+    0              56              63        752
+    1              51              63       1004
+    2              15              63       5478
+    3              60              62        638
+    4              27              61       5887
+    5              50              60       1928
+    6              48              60        870
+    7               3              60       7206
+    8               6              59      12116
+    9              48              58       1220
+   10               5              58      11232
+   11              47              57       2131
+   12              37              57       3567
+   13              47              56       1336
+   14              37              56       3048
+   15              48              55        774
+   16               2              55       9745
+   17              47              53       1534
+   18              46              53        569
+   19              31              53       3965
+   20              41              51       1029
+   21              38              51       1007
+   22              37              51       2357
+   23              40              49        838
+   24              39              49       1141
+   25              25              49       4573
+   26               6              49       6891
+   27              38              47       1224
+   28              27              47       2762
+   29              36              45        837
+   30              32              45       1918
+   31              32              43       1055
+   32              23              43       3989
+   33              19              43       1940
+   34              32              42       1384
+   35              32              42       1874
+   36              28              42       2358
+   37              30              41        851
+   38              23              41       1961
+   39              23              41       3266
+   40              35              39        895
+   41              27              38       1225
+   42              29              37        784
+   43              14              32       4345
+   44               5              32       3415
+   45              25              31        644
+   46              25              31       1713
+   47              20              31       2033
+   48              20              31       3499
+   49              27              30        331
+   50              19              28        895
+   51              23              25        244
+   52              17              23        933
+   53              12              23        984
+   54              11              22       1070
+   55               5              22       3566
+   56               8              17        681
+   57               8              17       2615
+   58               5              15       1940
+   59               5              13       1639
+   60               4              13       1028
+   61              10              12        489
+   62               4              12       2385
+   63               2              12       2023

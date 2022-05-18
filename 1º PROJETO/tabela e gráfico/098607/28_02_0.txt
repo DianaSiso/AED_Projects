@@ -1,0 +1,57 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 0 e acaba em 12 com lucro de 1520
+Foi atribuída a task que começa em 13 e acaba em 27 com lucro de 4116
+Foi atribuída a task que começa em 30 e acaba em 42 com lucro de 1903
+Foi atribuída a task que começa em 43 e acaba em 45 com lucro de 356
+Foi atribuída a task que começa em 54 e acaba em 70 com lucro de 2772
+Foi atribuída a task que começa em 77 e acaba em 82 com lucro de 883
+Foi atribuída a task que começa em 83 e acaba em 106 com lucro de 4912
+Foi atribuída a task que começa em 107 e acaba em 125 com lucro de 2365
+Foi atribuída a task que começa em 127 e acaba em 129 com lucro de 551
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 2 e acaba em 123 com lucro de 18975
+Foi atribuída a task que começa em 128 e acaba em 132 com lucro de 780
+
+O profit total é 39133
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98607
+T = 28
+P = 2
+Profits not ignored
+Solution time = 7.743e+01
+Tasks   Starting date	    Ending date    Profit
+    0               0              12       1520
+    1               4              14       2247
+    2               6              14       1352
+    3              13              27       4116
+    4              18              33       1244
+    5              23              35       1057
+    6              30              42       1903
+    7              43              45        356
+    8              35              46       2061
+    9              50              61       1667
+   10              60              67        691
+   11              54              70       2772
+   12              62              70        720
+   13              59              73       2257
+   14              74              82        502
+   15              77              82        883
+   16              76              83        506
+   17              31              85       5028
+   18              33              94       6671
+   19              60              96       4417
+   20              87             100       3500
+   21              82             101       2675
+   22              83             106       4912
+   23               2             123      18975
+   24             107             125       2365
+   25             127             129        551
+   26             124             130        538
+   27             128             132        780

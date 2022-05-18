@@ -1,0 +1,42 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 7 e acaba em 16 com lucro de 1768
+Foi atribuída a task que começa em 22 e acaba em 99 com lucro de 16918
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 5 e acaba em 100 com lucro de 16808
+
+O profit total é 35494
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98430
+T = 21
+P = 2
+Profits not ignored
+Solution time = 4.387e-01
+Tasks   Starting date	    Ending date    Profit
+    0               0              10       1404
+    1              10              15        738
+    2               7              16       1768
+    3              24              34        990
+    4              35              42        786
+    5              30              43       1600
+    6              42              45        566
+    7              49              55        744
+    8              55              57        364
+    9              37              60       2559
+   10              44              61       3107
+   11              50              67       3079
+   12              56              69       1676
+   13              60              79       3187
+   14               4              85      15280
+   15              81              86        971
+   16              83              86        451
+   17              73              87       1814
+   18              92              98        910
+   19              22              99      16918
+   20               5             100      16808

@@ -1,0 +1,68 @@
+----- Solução a ignorar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 0 e acaba em 12
+Foi atribuída a task que começa em 13 e acaba em 23
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 2 e acaba em 8
+Foi atribuída a task que começa em 9 e acaba em 21
+
+PROGRAMADOR 3
+Foi atribuída a task que começa em 2 e acaba em 15
+Foi atribuída a task que começa em 16 e acaba em 23
+
+PROGRAMADOR 4
+Foi atribuída a task que começa em 5 e acaba em 13
+Foi atribuída a task que começa em 20 e acaba em 27
+
+PROGRAMADOR 5
+Foi atribuída a task que começa em 6 e acaba em 28
+
+PROGRAMADOR 6
+Foi atribuída a task que começa em 8 e acaba em 26
+
+PROGRAMADOR 7
+Foi atribuída a task que começa em 12 e acaba em 22
+
+PROGRAMADOR 8
+Foi atribuída a task que começa em 12 e acaba em 23
+
+PROGRAMADOR 9
+Foi atribuída a task que começa em 13 e acaba em 26
+
+PROGRAMADOR 10
+Foi atribuída a task que começa em 20 e acaba em 28
+
+O número total de tarefas feitas é 14
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98607
+T = 20
+P = 10
+Profits ignored
+Solution time = 6.578e-01
+Tasks   Starting date	    Ending date    Profit
+    0               0              12          1
+    1               0              28          1
+    2               1              22          1
+    3               2               8          1
+    4               2              15          1
+    5               2              23          1
+    6               2              27          1
+    7               4              24          1
+    8               5              13          1
+    9               6              21          1
+   10               6              28          1
+   11               8              26          1
+   12               9              21          1
+   13              12              22          1
+   14              12              23          1
+   15              13              23          1
+   16              13              26          1
+   17              16              23          1
+   18              20              27          1
+   19              20              28          1

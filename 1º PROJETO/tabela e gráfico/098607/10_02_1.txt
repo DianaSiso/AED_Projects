@@ -1,0 +1,34 @@
+----- Solução a ignorar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 8 e acaba em 12
+Foi atribuída a task que começa em 14 e acaba em 27
+Foi atribuída a task que começa em 29 e acaba em 43
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 9 e acaba em 16
+Foi atribuída a task que começa em 18 e acaba em 26
+Foi atribuída a task que começa em 40 e acaba em 44
+
+O número total de tarefas feitas é 6
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98607
+T = 10
+P = 2
+Profits ignored
+Solution time = 3.715e-04
+Tasks   Starting date	    Ending date    Profit
+    0               4              15          1
+    1               6              11          1
+    2               8              12          1
+    3               9              16          1
+    4              14              25          1
+    5              14              27          1
+    6              18              26          1
+    7              27              44          1
+    8              29              43          1
+    9              40              44          1

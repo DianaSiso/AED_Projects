@@ -1,0 +1,22 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 6 e acaba em 21 com lucro de 4305
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 8 e acaba em 25 com lucro de 3461
+
+O profit total é 7766
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98430
+T = 2
+P = 2
+Profits not ignored
+Solution time = 7.918e-05
+Tasks   Starting date	    Ending date    Profit
+    0               6              21       4305
+    1               8              25       3461

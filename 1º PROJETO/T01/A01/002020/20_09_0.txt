@@ -1,0 +1,65 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 0 e acaba em 6 com lucro de 1094
+Foi atribuída a task que começa em 7 e acaba em 15 com lucro de 1412
+Foi atribuída a task que começa em 20 e acaba em 28 com lucro de 1554
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 2 e acaba em 10 com lucro de 2000
+Foi atribuída a task que começa em 11 e acaba em 22 com lucro de 1817
+
+PROGRAMADOR 3
+Foi atribuída a task que começa em 0 e acaba em 11 com lucro de 2741
+Foi atribuída a task que começa em 15 e acaba em 28 com lucro de 1733
+
+PROGRAMADOR 4
+Foi atribuída a task que começa em 5 e acaba em 20 com lucro de 3918
+
+PROGRAMADOR 5
+Foi atribuída a task que começa em 2 e acaba em 21 com lucro de 3914
+
+PROGRAMADOR 6
+Foi atribuída a task que começa em 6 e acaba em 21 com lucro de 3515
+
+PROGRAMADOR 7
+Foi atribuída a task que começa em 1 e acaba em 24 com lucro de 3759
+
+PROGRAMADOR 8
+Foi atribuída a task que começa em 2 e acaba em 24 com lucro de 4024
+
+PROGRAMADOR 9
+Foi atribuída a task que começa em 2 e acaba em 24 com lucro de 3998
+
+O profit total é 35479
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 2020
+T = 20
+P = 9
+Profits not ignored
+Solution time = 1.357e+00
+Tasks   Starting date	    Ending date    Profit
+    0               0               6       1094
+    1               0               7        947
+    2               2              10       2000
+    3               0              11       2741
+    4               2              13       1757
+    5               2              13       1175
+    6               7              15       1412
+    7               5              20       3918
+    8               2              21       3914
+    9               5              21       1722
+   10               6              21       3515
+   11              11              22       1817
+   12              16              23       1189
+   13               1              24       3759
+   14               2              24       4024
+   15               2              24       3998
+   16               7              26       3180
+   17              15              28       1733
+   18              20              28       1554
+   19               2              29       2782

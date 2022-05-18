@@ -1,0 +1,59 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 5 e acaba em 12 com lucro de 955
+Foi atribuída a task que começa em 18 e acaba em 28 com lucro de 1968
+Foi atribuída a task que começa em 30 e acaba em 40 com lucro de 2567
+Foi atribuída a task que começa em 45 e acaba em 59 com lucro de 2483
+Foi atribuída a task que começa em 73 e acaba em 75 com lucro de 504
+Foi atribuída a task que começa em 77 e acaba em 95 com lucro de 4238
+Foi atribuída a task que começa em 99 e acaba em 106 com lucro de 859
+Foi atribuída a task que começa em 107 e acaba em 118 com lucro de 1983
+Foi atribuída a task que começa em 120 e acaba em 135 com lucro de 2976
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 9 e acaba em 30 com lucro de 4136
+Foi atribuída a task que começa em 32 e acaba em 43 com lucro de 3023
+Foi atribuída a task que começa em 60 e acaba em 140 com lucro de 13864
+
+O profit total é 39556
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98607
+T = 29
+P = 2
+Profits not ignored
+Solution time = 1.509e+02
+Tasks   Starting date	    Ending date    Profit
+    0               5              12        955
+    1              10              26       1835
+    2              19              26       1385
+    3              18              28       1968
+    4               9              30       4136
+    5              30              40       2567
+    6              32              43       3023
+    7              28              45       1355
+    8              27              48       4030
+    9              45              59       2483
+   10              57              62       1227
+   11              73              75        504
+   12              57              78       3313
+   13              69              83       2130
+   14              75              87       1639
+   15              78              91       3220
+   16              77              95       4238
+   17              79              95       1555
+   18              93              99        717
+   19               4             102      10635
+   20              85             105       2148
+   21              99             106        859
+   22             105             113       1115
+   23             107             118       1983
+   24             120             129       1345
+   25             120             135       2976
+   26             113             138       3782
+   27             134             138        695
+   28              60             140      13864

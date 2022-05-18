@@ -1,0 +1,33 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 5 e acaba em 16 com lucro de 2790
+Foi atribuída a task que começa em 17 e acaba em 32 com lucro de 1574
+Foi atribuída a task que começa em 37 e acaba em 43 com lucro de 1636
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 0 e acaba em 22 com lucro de 5572
+Foi atribuída a task que começa em 23 e acaba em 44 com lucro de 5549
+
+O profit total é 17121
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98430
+T = 10
+P = 2
+Profits not ignored
+Solution time = 9.223e-04
+Tasks   Starting date	    Ending date    Profit
+    0               3               8       1465
+    1               2              10       2443
+    2               5              16       2790
+    3               0              22       5572
+    4               7              25       2707
+    5               4              29       3331
+    6              17              32       1574
+    7              24              42       1690
+    8              37              43       1636
+    9              23              44       5549

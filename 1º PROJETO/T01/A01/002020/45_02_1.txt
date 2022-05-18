@@ -1,0 +1,83 @@
+--------------------SOLUÇÃO IGNORANDO OS LUCROS--------------------
+
+PROGRAMADOR: 1
+Tarefa que começa em 2 e acaba em 12
+Tarefa que começa em 19 e acaba em 40
+Tarefa que começa em 43 e acaba em 49
+Tarefa que começa em 60 e acaba em 66
+Tarefa que começa em 72 e acaba em 82
+Tarefa que começa em 86 e acaba em 99
+Tarefa que começa em 109 e acaba em 118
+Tarefa que começa em 121 e acaba em 131
+Tarefa que começa em 132 e acaba em 151
+Tarefa que começa em 160 e acaba em 162
+Tarefa que começa em 163 e acaba em 167
+Tarefa que começa em 169 e acaba em 193
+Tarefa que começa em 195 e acaba em 202
+Tarefa que começa em 204 e acaba em 223
+
+PROGRAMADOR: 2
+Tarefa que começa em 31 e acaba em 46
+Tarefa que começa em 51 e acaba em 72
+Tarefa que começa em 74 e acaba em 91
+Tarefa que começa em 103 e acaba em 121
+Tarefa que começa em 122 e acaba em 131
+Tarefa que começa em 135 e acaba em 145
+Tarefa que começa em 152 e acaba em 174
+Tarefa que começa em 176 e acaba em 184
+Tarefa que começa em 190 e acaba em 209
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 2020
+T = 45
+P = 2
+Profits ignored
+Solution time = 1.355e-04
+Tasks   Starting date	    Ending date    Profit
+    0               2              12          1
+    1              19              40          1
+    2              34              43          1
+    3              31              46          1
+    4              43              49          1
+    5              48              60          1
+    6              60              66          1
+    7              51              72          1
+    8              72              82          1
+    9              74              91          1
+   10              86              99          1
+   11              91             100          1
+   12             109             118          1
+   13             113             120          1
+   14             103             121          1
+   15             121             131          1
+   16             122             131          1
+   17             125             134          1
+   18              80             135          1
+   19             131             141          1
+   20             127             142          1
+   21             135             145          1
+   22             132             151          1
+   23             160             162          1
+   24             160             165          1
+   25             158             167          1
+   26             163             167          1
+   27             159             170          1
+   28             152             174          1
+   29             176             184          1
+   30             178             185          1
+   31              14             188          1
+   32             167             190          1
+   33             177             190          1
+   34              34             191          1
+   35             180             191          1
+   36             181             191          1
+   37             170             192          1
+   38             176             192          1
+   39             169             193          1
+   40             195             202          1
+   41             187             203          1
+   42             190             209          1
+   43             201             213          1
+   44             204             223          1

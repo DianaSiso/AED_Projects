@@ -1,0 +1,54 @@
+----- Solução a ignorar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 10 e acaba em 25
+Foi atribuída a task que começa em 48 e acaba em 56
+Foi atribuída a task que começa em 59 e acaba em 70
+Foi atribuída a task que começa em 72 e acaba em 77
+Foi atribuída a task que começa em 79 e acaba em 91
+Foi atribuída a task que começa em 111 e acaba em 124
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 17 e acaba em 27
+Foi atribuída a task que começa em 54 e acaba em 73
+Foi atribuída a task que começa em 80 e acaba em 103
+Foi atribuída a task que começa em 114 e acaba em 124
+
+O número total de tarefas feitas é 10
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98607
+T = 26
+P = 2
+Profits ignored
+Solution time = 2.196e+01
+Tasks   Starting date	    Ending date    Profit
+    0               4              75          1
+    1               6              20          1
+    2               8              23          1
+    3              10              25          1
+    4              17              27          1
+    5              25              97          1
+    6              31             114          1
+    7              32             127          1
+    8              34              56          1
+    9              48              56          1
+   10              48              68          1
+   11              52              72          1
+   12              54              73          1
+   13              56              85          1
+   14              59              70          1
+   15              69              87          1
+   16              71              87          1
+   17              72              77          1
+   18              72              94          1
+   19              77              88          1
+   20              79              91          1
+   21              80             103          1
+   22             109             119          1
+   23             110             116          1
+   24             111             124          1
+   25             114             124          1

@@ -1,0 +1,52 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 12 e acaba em 18 com lucro de 1893
+Foi atribuída a task que começa em 20 e acaba em 34 com lucro de 2464
+Foi atribuída a task que começa em 36 e acaba em 44 com lucro de 1808
+Foi atribuída a task que começa em 45 e acaba em 47 com lucro de 340
+Foi atribuída a task que começa em 60 e acaba em 79 com lucro de 3505
+Foi atribuída a task que começa em 80 e acaba em 88 com lucro de 2312
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 13 e acaba em 22 com lucro de 2374
+Foi atribuída a task que começa em 31 e acaba em 37 com lucro de 1269
+Foi atribuída a task que começa em 46 e acaba em 64 com lucro de 4691
+Foi atribuída a task que começa em 76 e acaba em 93 com lucro de 3833
+
+O profit total é 24489
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 2020
+T = 24
+P = 2
+Profits not ignored
+Solution time = 8.208e+00
+Tasks   Starting date	    Ending date    Profit
+    0              12              18       1893
+    1               8              22       1422
+    2              13              22       2374
+    3              15              22       1985
+    4              19              30       1801
+    5              20              34       2464
+    6              30              37        896
+    7              31              37       1269
+    8              31              39        663
+    9              36              44       1808
+   10              45              47        340
+   11              46              63       1459
+   12              46              64       4691
+   13              63              66        868
+   14              60              68       1728
+   15              33              73       3006
+   16              60              79       3505
+   17              74              84       1727
+   18              61              88       4014
+   19              80              88       2312
+   20              69              91       3542
+   21              76              93       3833
+   22              80              96       1676
+   23              85             102       1359

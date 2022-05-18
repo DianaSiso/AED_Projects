@@ -1,0 +1,65 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 2 e acaba em 4 com lucro de 564
+Foi atribuída a task que começa em 5 e acaba em 8 com lucro de 457
+Foi atribuída a task que começa em 11 e acaba em 19 com lucro de 1421
+Foi atribuída a task que começa em 20 e acaba em 27 com lucro de 1376
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 2 e acaba em 6 com lucro de 1015
+Foi atribuída a task que começa em 13 e acaba em 24 com lucro de 2171
+
+PROGRAMADOR 3
+Foi atribuída a task que começa em 3 e acaba em 23 com lucro de 2898
+
+PROGRAMADOR 4
+Foi atribuída a task que começa em 5 e acaba em 24 com lucro de 3486
+
+PROGRAMADOR 5
+Foi atribuída a task que começa em 4 e acaba em 25 com lucro de 3518
+
+PROGRAMADOR 6
+Foi atribuída a task que começa em 17 e acaba em 25 com lucro de 2152
+
+PROGRAMADOR 7
+Foi atribuída a task que começa em 13 e acaba em 28 com lucro de 2313
+
+PROGRAMADOR 8
+Foi atribuída a task que começa em 16 e acaba em 28 com lucro de 2541
+
+PROGRAMADOR 9
+Foi atribuída a task que começa em 5 e acaba em 29 com lucro de 3926
+
+O profit total é 27838
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98607
+T = 20
+P = 9
+Profits not ignored
+Solution time = 7.060e-01
+Tasks   Starting date	    Ending date    Profit
+    0               2               4        564
+    1               2               6       1015
+    2               5               8        457
+    3              11              19       1421
+    4               9              21       1983
+    5              20              21        373
+    6               3              23       2898
+    7               6              23       1497
+    8               8              23       1283
+    9              14              23       2036
+   10               5              24       3486
+   11              13              24       2171
+   12               4              25       3518
+   13              17              25       2152
+   14              18              27        767
+   15              20              27       1376
+   16              20              27        778
+   17              13              28       2313
+   18              16              28       2541
+   19               5              29       3926

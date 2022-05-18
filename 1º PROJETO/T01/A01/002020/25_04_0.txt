@@ -1,0 +1,53 @@
+Solução com Lucros
+
+
+Para o Programador 1
+Foi atribuída a task que começa em 4 e acaba em 61 com lucro de 5850
+
+Para o Programador 2
+Foi atribuída a task que começa em 34 e acaba em 48 com lucro de 3487
+
+Para o Programador 3
+Foi atribuída a task que começa em 7 e acaba em 29 com lucro de 3706
+
+Para o Programador 4
+Foi atribuída a task que começa em 4 e acaba em 18 com lucro de 3262
+
+Foram feitas 4 tarefas.
+O profit total é 16305
+------------------------------------
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 2020
+T = 25
+P = 4
+Profits not ignored
+Solution time = 1.569e+01
+Tasks   Starting date	    Ending date    Profit
+    0              52              61       1641
+    1               4              61       5850
+    2              46              57       1799
+    3              50              56        766
+    4              44              56       2579
+    5              42              56       3102
+    6              42              52       1207
+    7              40              52       2199
+    8              40              49       1121
+    9              34              48       3487
+   10              41              46        404
+   11              28              42       1930
+   12              14              38       2778
+   13              30              37       1060
+   14              29              37       1845
+   15              28              36       2596
+   16              15              29       1659
+   17               7              29       3706
+   18              15              24       1587
+   19              15              23       1168
+   20              10              19       1292
+   21               4              19       2966
+   22               8              18       1452
+   23               4              18       3262
+   24              13              16        788

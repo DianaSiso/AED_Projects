@@ -1,0 +1,70 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 2 e acaba em 16 com lucro de 1702
+Foi atribuída a task que começa em 19 e acaba em 25 com lucro de 1146
+Foi atribuída a task que começa em 29 e acaba em 35 com lucro de 1469
+Foi atribuída a task que começa em 36 e acaba em 44 com lucro de 1088
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 4 e acaba em 17 com lucro de 1416
+Foi atribuída a task que começa em 18 e acaba em 37 com lucro de 3091
+Foi atribuída a task que começa em 39 e acaba em 49 com lucro de 1457
+
+PROGRAMADOR 3
+Foi atribuída a task que começa em 11 e acaba em 21 com lucro de 2438
+Foi atribuída a task que começa em 27 e acaba em 45 com lucro de 4325
+
+PROGRAMADOR 4
+Foi atribuída a task que começa em 13 e acaba em 21 com lucro de 1752
+Foi atribuída a task que começa em 22 e acaba em 46 com lucro de 3693
+
+PROGRAMADOR 5
+Foi atribuída a task que começa em 10 e acaba em 26 com lucro de 3027
+Foi atribuída a task que começa em 35 e acaba em 49 com lucro de 1860
+
+PROGRAMADOR 6
+Foi atribuída a task que começa em 2 e acaba em 46 com lucro de 6426
+
+O profit total é 34890
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98430
+T = 30
+P = 6
+Profits not ignored
+Solution time = 8.652e+02
+Tasks   Starting date	    Ending date    Profit
+    0               2              16       1702
+    1               4              17       1416
+    2              16              20        484
+    3              11              21       2438
+    4              13              21       1752
+    5              10              22        701
+    6              11              22       1595
+    7               7              24       1961
+    8               9              25       2781
+    9              19              25       1146
+   10              10              26       3027
+   11              17              26        928
+   12              19              26        871
+   13              10              29       2014
+   14              23              29        757
+   15              18              30       2463
+   16              20              30       1375
+   17              28              32        666
+   18              29              35       1056
+   19              29              35       1469
+   20              18              37       3091
+   21              28              37       1188
+   22              36              43        889
+   23              36              44       1088
+   24              23              45       2081
+   25              27              45       4325
+   26               2              46       6426
+   27              22              46       3693
+   28              35              49       1860
+   29              39              49       1457

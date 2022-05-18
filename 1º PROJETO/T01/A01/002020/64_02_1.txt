@@ -1,0 +1,111 @@
+--------------------SOLUÇÃO IGNORANDO OS LUCROS--------------------
+
+PROGRAMADOR: 1
+Tarefa que começa em 8 e acaba em 24
+Tarefa que começa em 28 e acaba em 31
+Tarefa que começa em 33 e acaba em 53
+Tarefa que começa em 54 e acaba em 56
+Tarefa que começa em 61 e acaba em 72
+Tarefa que começa em 85 e acaba em 97
+Tarefa que começa em 104 e acaba em 117
+Tarefa que começa em 127 e acaba em 143
+Tarefa que começa em 148 e acaba em 152
+Tarefa que começa em 163 e acaba em 170
+Tarefa que começa em 172 e acaba em 185
+Tarefa que começa em 187 e acaba em 189
+Tarefa que começa em 194 e acaba em 206
+Tarefa que começa em 220 e acaba em 237
+Tarefa que começa em 242 e acaba em 255
+Tarefa que começa em 257 e acaba em 265
+Tarefa que começa em 266 e acaba em 279
+Tarefa que começa em 281 e acaba em 286
+Tarefa que começa em 288 e acaba em 310
+
+PROGRAMADOR: 2
+Tarefa que começa em 31 e acaba em 48
+Tarefa que começa em 52 e acaba em 61
+Tarefa que começa em 65 e acaba em 75
+Tarefa que começa em 76 e acaba em 85
+Tarefa que começa em 106 e acaba em 131
+Tarefa que começa em 137 e acaba em 150
+Tarefa que começa em 166 e acaba em 171
+Tarefa que começa em 173 e acaba em 184
+Tarefa que começa em 187 e acaba em 210
+Tarefa que começa em 228 e acaba em 240
+Tarefa que começa em 246 e acaba em 260
+Tarefa que começa em 277 e acaba em 290
+Tarefa que começa em 303 e acaba em 318
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 2020
+T = 64
+P = 2
+Profits ignored
+Solution time = 1.790e-04
+Tasks   Starting date	    Ending date    Profit
+    0               8              24          1
+    1              19              31          1
+    2              28              31          1
+    3              28              45          1
+    4              31              48          1
+    5              33              53          1
+    6              54              56          1
+    7              52              61          1
+    8              61              72          1
+    9              53              73          1
+   10              65              75          1
+   11              63              76          1
+   12              69              76          1
+   13              68              81          1
+   14              76              85          1
+   15              61              87          1
+   16              71              88          1
+   17              85              97          1
+   18             100             111          1
+   19              90             113          1
+   20             105             113          1
+   21             104             117          1
+   22             107             117          1
+   23             106             131          1
+   24             127             143          1
+   25              88             147          1
+   26             138             147          1
+   27             136             148          1
+   28             108             149          1
+   29             135             149          1
+   30             132             150          1
+   31             137             150          1
+   32             148             152          1
+   33             163             170          1
+   34             166             171          1
+   35             158             174          1
+   36             173             184          1
+   37              30             185          1
+   38             172             185          1
+   39             175             185          1
+   40             187             189          1
+   41             179             190          1
+   42             194             206          1
+   43              19             208          1
+   44             187             210          1
+   45             220             237          1
+   46             228             240          1
+   47             232             240          1
+   48             238             250          1
+   49             237             254          1
+   50             242             255          1
+   51             246             260          1
+   52             257             265          1
+   53             266             279          1
+   54             270             282          1
+   55             259             283          1
+   56             281             286          1
+   57             275             290          1
+   58             277             290          1
+   59              48             296          1
+   60               4             299          1
+   61             288             310          1
+   62             308             317          1
+   63             303             318          1

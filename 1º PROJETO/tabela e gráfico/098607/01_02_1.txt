@@ -1,0 +1,20 @@
+----- Solução a ignorar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 0 e acaba em 19
+
+PROGRAMADOR 2
+
+O número total de tarefas feitas é 1
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98607
+T = 1
+P = 2
+Profits ignored
+Solution time = 2.325e-05
+Tasks   Starting date	    Ending date    Profit
+    0               0              19          1

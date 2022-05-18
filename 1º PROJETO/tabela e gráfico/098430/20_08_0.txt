@@ -1,0 +1,62 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 0 e acaba em 8 com lucro de 884
+Foi atribuída a task que começa em 9 e acaba em 22 com lucro de 1562
+Foi atribuída a task que começa em 23 e acaba em 26 com lucro de 558
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 4 e acaba em 10 com lucro de 886
+Foi atribuída a task que começa em 11 e acaba em 24 com lucro de 2832
+
+PROGRAMADOR 3
+Foi atribuída a task que começa em 0 e acaba em 14 com lucro de 3093
+Foi atribuída a task que começa em 22 e acaba em 28 com lucro de 997
+
+PROGRAMADOR 4
+Foi atribuída a task que começa em 5 e acaba em 16 com lucro de 2100
+
+PROGRAMADOR 5
+Foi atribuída a task que começa em 6 e acaba em 21 com lucro de 3742
+
+PROGRAMADOR 6
+Foi atribuída a task que começa em 8 e acaba em 21 com lucro de 2294
+
+PROGRAMADOR 7
+Foi atribuída a task que começa em 2 e acaba em 26 com lucro de 3520
+
+PROGRAMADOR 8
+Foi atribuída a task que começa em 3 e acaba em 28 com lucro de 4502
+
+O profit total é 26970
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98430
+T = 20
+P = 8
+Profits not ignored
+Solution time = 7.275e-01
+Tasks   Starting date	    Ending date    Profit
+    0               0               8        884
+    1               4              10        886
+    2               0              14       3093
+    3               5              16       2100
+    4               5              17       1762
+    5               7              17       1810
+    6              11              18        512
+    7               3              21       1685
+    8               6              21       3742
+    9               8              21       2294
+   10               5              22       1668
+   11               9              22       1562
+   12              11              24       2832
+   13               7              25       1895
+   14               2              26       3520
+   15              14              26       1106
+   16              23              26        558
+   17              14              27        821
+   18               3              28       4502
+   19              22              28        997

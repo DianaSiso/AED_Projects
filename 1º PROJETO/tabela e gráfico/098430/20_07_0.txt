@@ -1,0 +1,58 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 2 e acaba em 5 com lucro de 683
+Foi atribuída a task que começa em 9 e acaba em 14 com lucro de 1135
+Foi atribuída a task que começa em 16 e acaba em 27 com lucro de 2065
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 0 e acaba em 9 com lucro de 892
+Foi atribuída a task que começa em 14 e acaba em 27 com lucro de 3699
+
+PROGRAMADOR 3
+Foi atribuída a task que começa em 0 e acaba em 16 com lucro de 3100
+
+PROGRAMADOR 4
+Foi atribuída a task que começa em 0 e acaba em 21 com lucro de 4434
+
+PROGRAMADOR 5
+Foi atribuída a task que começa em 2 e acaba em 26 com lucro de 3139
+
+PROGRAMADOR 6
+Foi atribuída a task que começa em 7 e acaba em 28 com lucro de 4227
+
+PROGRAMADOR 7
+Foi atribuída a task que começa em 2 e acaba em 29 com lucro de 3725
+
+O profit total é 27099
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98430
+T = 20
+P = 7
+Profits not ignored
+Solution time = 6.573e-01
+Tasks   Starting date	    Ending date    Profit
+    0               2               5        683
+    1               0               9        892
+    2               8              11        504
+    3               9              14       1135
+    4               0              16       3100
+    5               5              17       1549
+    6               0              18       2695
+    7              11              18       1676
+    8               0              20       1568
+    9               4              20       1810
+   10               0              21       4434
+   11               9              21       2255
+   12               9              23       2936
+   13               4              24       2331
+   14               2              26       3139
+   15               6              26       2998
+   16              14              27       3699
+   17              16              27       2065
+   18               7              28       4227
+   19               2              29       3725

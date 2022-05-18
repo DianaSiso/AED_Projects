@@ -1,0 +1,57 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 0 e acaba em 18 com lucro de 2689
+Foi atribuída a task que começa em 31 e acaba em 56 com lucro de 3737
+Foi atribuída a task que começa em 58 e acaba em 76 com lucro de 4155
+Foi atribuída a task que começa em 84 e acaba em 94 com lucro de 2298
+Foi atribuída a task que começa em 99 e acaba em 117 com lucro de 3059
+Foi atribuída a task que começa em 120 e acaba em 123 com lucro de 594
+Foi atribuída a task que começa em 128 e acaba em 134 com lucro de 1670
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 15 e acaba em 32 com lucro de 4407
+Foi atribuída a task que começa em 55 e acaba em 66 com lucro de 1423
+Foi atribuída a task que começa em 70 e acaba em 82 com lucro de 2247
+Foi atribuída a task que começa em 83 e acaba em 100 com lucro de 2052
+Foi atribuída a task que começa em 101 e acaba em 119 com lucro de 4146
+
+O profit total é 32477
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98430
+T = 27
+P = 2
+Profits not ignored
+Solution time = 3.521e+01
+Tasks   Starting date	    Ending date    Profit
+    0               0              18       2689
+    1              17              20        507
+    2               5              23       2533
+    3              15              32       4407
+    4              16              33       2108
+    5              30              35        913
+    6              14              36       3701
+    7              35              37        344
+    8              41              44        835
+    9              30              55       2704
+   10              31              56       3737
+   11              41              56       1178
+   12              55              66       1423
+   13              49              72       1802
+   14              59              74       1520
+   15              58              76       4155
+   16              70              82       2247
+   17              75              91       2760
+   18              84              94       2298
+   19              83             100       2052
+   20              91             102       1430
+   21              99             117       3059
+   22              98             118       1733
+   23             101             119       4146
+   24             104             120       2764
+   25             120             123        594
+   26             128             134       1670

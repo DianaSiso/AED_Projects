@@ -1,0 +1,68 @@
+----- Solução a contabilizar os lucros! -----
+
+PROGRAMADOR 1
+Foi atribuída a task que começa em 2 e acaba em 6 com lucro de 304
+Foi atribuída a task que começa em 8 e acaba em 21 com lucro de 2682
+
+PROGRAMADOR 2
+Foi atribuída a task que começa em 0 e acaba em 15 com lucro de 3029
+Foi atribuída a task que começa em 17 e acaba em 28 com lucro de 2089
+
+PROGRAMADOR 3
+Foi atribuída a task que começa em 5 e acaba em 17 com lucro de 2186
+Foi atribuída a task que começa em 19 e acaba em 28 com lucro de 1367
+
+PROGRAMADOR 4
+Foi atribuída a task que começa em 1 e acaba em 18 com lucro de 1847
+Foi atribuída a task que começa em 19 e acaba em 28 com lucro de 2063
+
+PROGRAMADOR 5
+Foi atribuída a task que começa em 4 e acaba em 22 com lucro de 2244
+
+PROGRAMADOR 6
+Foi atribuída a task que começa em 9 e acaba em 24 com lucro de 2338
+
+PROGRAMADOR 7
+Foi atribuída a task que começa em 10 e acaba em 24 com lucro de 2967
+
+PROGRAMADOR 8
+Foi atribuída a task que começa em 5 e acaba em 26 com lucro de 4019
+
+PROGRAMADOR 9
+Foi atribuída a task que começa em 7 e acaba em 28 com lucro de 4569
+
+PROGRAMADOR 10
+Foi atribuída a task que começa em 15 e acaba em 29 com lucro de 2436
+
+O profit total é 34140
+
+
+
+
+--------------------INFORMAÇÕES DE CONSULTA--------------------
+NMec = 98430
+T = 20
+P = 10
+Profits not ignored
+Solution time = 6.438e-01
+Tasks   Starting date	    Ending date    Profit
+    0               2               6        304
+    1               0              15       3029
+    2               5              17       2186
+    3               1              18       1847
+    4              13              18        712
+    5               8              21       2682
+    6               4              22       2244
+    7              16              23        672
+    8              17              23        872
+    9               9              24       2338
+   10              10              24       2967
+   11               5              26       4019
+   12              19              27       1037
+   13               7              28       4569
+   14               8              28       1408
+   15              17              28       2089
+   16              19              28       1363
+   17              19              28       1367
+   18              19              28       2063
+   19              15              29       2436
